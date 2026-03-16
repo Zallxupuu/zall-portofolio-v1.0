@@ -2,7 +2,7 @@
 
 Personal portfolio website built with React + Vite.
 
-🔗 **Live Demo:** [your-portfolio.vercel.app](https://your-portfolio.vercel.app)
+🔗 **Live Demo:** [zall-portfolio.vercel.app](https://zall-portfolio.vercel.app)
 
 ---
 
@@ -17,10 +17,10 @@ Personal portfolio website built with React + Vite.
 ## Getting Started
 
 ```bash
-git clone https://github.com/username/my-portfolio.git
-cd my-portfolio
-npm install
-npm run dev
+git clone https://github.com/Zallxupuu/zall-portofolio-v1.0.git
+cd zall-portofolio-v1.0
+bun install
+bun dev
 ```
 
 ---
@@ -30,8 +30,3 @@ npm run dev
 Dihosting di [Vercel](https://vercel.com). Setiap push ke `main` akan auto-deploy.
 
 ---
-
-## Contact
-
-- Email: email@example.com
-- LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)
